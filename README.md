@@ -12,17 +12,24 @@ The repository is equipped with a powerful pre-trained model, namely "efficientn
 
 ## Comparision of Efficientnet Models 
 ![](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/71726e59-55f8-415a-b83e-61cafac3a3eb)
+
 ### Resources on Efficientnet [[1]](https://keras.io/api/applications/efficientnet/) [[2]](https://paperswithcode.com/method/efficientnet#:~:text=Introduced%20by%20Tan%20et%20al,resolution%20using%20a%20compound%20coefficient.) [[3]](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)
+
+![1](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/581327ef-6595-4da8-99d9-426e33318c0c)
 
 
 ## :warning: Requirements
 
 - [Python 3.x](https://www.python.org/downloads/)
-- [PyTorch]()
-- [NumPy]()
-- [OpenCV]()
-- [Matplotlib]()
+- [PyTorch](https://pytorch.org/)
+- [NumPy](https://numpy.org/)
+- [OpenCV](https://opencv.org/)
+- [Matplotlib](https://matplotlib.org/)
 - [Albumentations](https://github.com/albumentations-team/albumentations)
 - [timm](https://github.com/huggingface/pytorch-image-models)
 
-## Installation
+## :bulb: Workflow
+
+![3](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/3c9c03db-67b5-43cd-a501-28088f4ee62b)
+
+## :key: Results
