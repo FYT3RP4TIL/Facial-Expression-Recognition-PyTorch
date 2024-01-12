@@ -1,5 +1,6 @@
 # Facial-Expression-Recognition-PyTorch
-![2](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/fa12d2e9-0604-408a-aabf-03a2c0cfddb1)
+
+![Screenshot 2024-01-12 111917](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/de93987a-5dec-4b66-9f2a-405e4ef577e5)
 
 
 ## Overview
@@ -33,3 +34,17 @@ The repository is equipped with a powerful pre-trained model, namely "efficientn
 ![3](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/3c9c03db-67b5-43cd-a501-28088f4ee62b)
 
 ## :key: Results
+![Screenshot 2024-01-12 105356](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/5e3dfd13-6a60-4d68-b8ad-bdd676b185f4)
+
+![Screenshot 2024-01-12 105502](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/953b6ec0-5333-4785-b25d-e08483d91479)
+
+![Screenshot 2024-01-12 105555](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/d872199f-96a2-429e-b117-6a995c92cd00)
+
+![Screenshot 2024-01-12 105613](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/f13a46ce-8552-43c5-97aa-9c84430a99fa)
+
+![Screenshot 2024-01-12 105631](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/f273c307-14aa-4234-83e4-ad19b3658381)
+
+![Screenshot 2024-01-12 105807](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/d9e940df-8ebb-4a98-a003-0086aa0f608e)
+
+![Screenshot 2024-01-12 110114](https://github.com/Sudhanshu21xx/Facial-Expression-Recognition-PyTorch/assets/113416452/846a116f-34ba-487e-b4f4-d5bb91555150)
+
